@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wangrongding/ding-tools/issues"
   },
-  "homepage": "https://github.com/wangrongding/ding-tools#readme"
+  "homepage": "https://github.com/wangrongding/ding-tools#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
