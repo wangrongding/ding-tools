@@ -1,0 +1,23 @@
+{
+  "name": "ding-tools",
+  "version": "1.0.0",
+  "description": "tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangrongding/ding-tools.git"
+  },
+  "keywords": [
+    "tools",
+    "js"
+  ],
+  "author": "rongding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangrongding/ding-tools/issues"
+  },
+  "homepage": "https://github.com/wangrongding/ding-tools#readme"
+}
